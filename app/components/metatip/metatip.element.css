@@ -5,6 +5,7 @@
   z-index: 99999;
   font-size: 16px;
   font-family: system-ui;
+  direction: ltr;
 
   --arrow-width: 15px;
   --arrow-height: 8px;
